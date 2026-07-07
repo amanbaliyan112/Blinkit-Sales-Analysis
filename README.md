@@ -75,6 +75,10 @@ These filters allow users to explore the data dynamically and gain deeper busine
 
 ---
 
+# Dashboard Picture 
+<img width="788" height="486" alt="Blinkit dashboard photo" src="https://github.com/user-attachments/assets/11bfe2ae-aa51-405d-b3d3-0b86763d2d01" />
+
+
 # Dashboard Visualizations
 
 ### Sales by Fat Content
