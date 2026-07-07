@@ -4,7 +4,11 @@ An interactive **Power BI dashboard** that transforms Blinkit's sales data into 
 
 ---
 
+## Dataset
 
+The dataset used in this project is not included in this repository due to redistribution considerations.
+
+This dashboard was developed using a publicly available Blinkit grocery sales dataset for educational purposes. If you wish to recreate the project, you can use a similar retail sales dataset or obtain the dataset from its original source.
 
 # Project Overview
 
