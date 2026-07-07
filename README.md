@@ -4,8 +4,7 @@ An interactive **Power BI dashboard** that transforms Blinkit's sales data into 
 
 ---
 
-#Dataset used
-Dataset
+
 
 # Project Overview
 
